@@ -70,6 +70,18 @@ body {
 .picture img {
     width: 100%;
 }
+
+.carousel-indicators button {
+    background-color: #e07c34 !important;
+}
+
+.carousel-control-prev-icon {
+    background-color: #000 !important;
+}
+.carousel-control-next-icon {
+    background-color: #000 !important;
+}
+
 #about-me {
     flex: 2;
 }
