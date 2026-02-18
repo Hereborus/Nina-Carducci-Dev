@@ -84,6 +84,11 @@ body {
     color: #fff !important;
 }
 
+.visually-hidden {
+    color: #fff;
+    background-color: #000;
+}
+
 #about-me {
     flex: 2;
 }
