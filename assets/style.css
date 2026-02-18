@@ -77,12 +77,11 @@ body {
 
 .carousel-control-prev-icon {
     background-color: #000 !important;
+    color: #fff !important;
 }
 .carousel-control-next-icon {
     background-color: #000 !important;
-}
-.visually-hidden {
-    background-color: #ff0000 !important;
+    color: #fff !important;
 }
 
 #about-me {
