@@ -82,7 +82,7 @@ body {
     background-color: #000 !important;
 }
 .visually-hidden {
-    background-color: #ffffff;
+    background-color: #ff0000 !important;
 }
 
 #about-me {
