@@ -77,9 +77,11 @@ body {
 
 .carousel-control-prev-icon {
     background-color: #000 !important;
+    color: #e07c34 !important;
 }
 .carousel-control-next-icon {
     background-color: #000 !important;
+    color: #e07c34 !important;
 }
 
 #about-me {
